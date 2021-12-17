@@ -9,4 +9,5 @@ bu gibi altyapıların devamının gelmek istiyorsanız 200 star alırsam iyi ol
 Botta bir hata alırsanız veya sormak istediğinz bir şey olursa sunucuma veya bana yazmanız yeterlidir.
 
 [Discord Sunucum](https://discord.gg/y835mfuhjC)
+
 [Discord Hesabım](https://discord.com/users/564894186386751508)
