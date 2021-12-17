@@ -1,0 +1,38 @@
+{
+    "Bot": {
+     "Token": "",
+     "Owners": [""],
+     "Prefix": "!",
+     "Durum": "",
+      "Mongourl":""
+    },
+
+    "Server": {
+     "GuildID": ""
+    },
+
+  "Roles": {
+"boga": "",
+"ikizler": "",
+"yengec": "",
+"aslan": "",
+"basak": "",
+"terazi": "",
+"koc": "",
+"akrep": "",
+"yay": "",
+"oglak": "",
+"kova": "",
+"balık": "",
+      
+"Lovers":"",
+"Alone":"",
+ "LGBT":"",
+"anyone":"",
+  
+"etkinlik":"",
+"cekilis":""
+  
+    }
+
+}
